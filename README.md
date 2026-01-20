@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ahmet%20Emre%20Usta&fontSize=70&fontColor=ffffff&desc=AI%20Engineer%20%26%20R%26D%20Lead&descAlign=50&descAlignY=55" alt="Ahmet Emre Usta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ahmet%20Emre%20Usta&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%26%20Project%20Lead&descAlignY=60&descSize=25" alt="Ahmet Emre Usta Banner" />
 </div>
 
 ### 👋 Hi there, I'm Ahmet Emre Usta
@@ -35,10 +35,8 @@ I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, *
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
+[![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
