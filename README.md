@@ -1,5 +1,5 @@
 <div align="center">
-  <<img
+  <img
     src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&h=300&fit=crop&auto=format"
     width="100%"
     height="300"
