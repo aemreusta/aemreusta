@@ -89,10 +89,7 @@ I bridge the gap between **academic research** and **production-grade engineerin
 ---
 
 <div align="center">
-  <img src="imgs/ts-gold-monochrome.png" height="50" alt="Trabzonspor Gold Logo" />
   <br/>
-  <br/>
-
   <a href="https://linkedin.com/in/a-emreusta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -105,11 +102,10 @@ I bridge the gap between **academic research** and **production-grade engineerin
   <a href="https://trabzonspor.org.tr">
     <img src="https://img.shields.io/badge/Trabzonspor-Member-830025?style=for-the-badge&labelColor=399CC8&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <p><b>Visitor count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=aemreusta&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=aemreusta&style=for-the-badge&label=Profile%20Views&color=455a64" alt="Profile Views" />
+  <br/>
+  <br/>
+  <a href="https://trabzonspor.org.tr">
+    <img src="imgs/ts-gold-monochrome.png" height="50" alt="Trabzonspor Gold Logo" />
+  </a>
 </div>
