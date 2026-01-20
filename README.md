@@ -1,7 +1,20 @@
 <div align="center">
+  <img
+    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&h=300&fit=crop&auto=format"
+    width="100%"
+    height="300"
+    style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5); object-fit: cover;"
+    alt="AI Technology Banner"
+  />
+  
+  <br/>
+  <br/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Project+Lead;Building+Agentic+AI+Systems;Congress+Member+of+Trabzonspor+%E2%9A%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A50B2D;399CC8&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Project+Lead;Building+Agentic+AI+Systems;Congress+Member+of+Trabzonspor+%E2%9A%BD" alt="Typing SVG" />
   </a>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" height="2" />
 </div>
 
 ### 👋 Hi there, I'm Ahmet Emre Usta
