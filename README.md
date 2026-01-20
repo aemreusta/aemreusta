@@ -34,6 +34,8 @@ I bridge the gap between **academic research** and **production-grade engineerin
 ---
 
 ## 📕 Latest Writing / Updates
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
