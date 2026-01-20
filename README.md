@@ -50,10 +50,9 @@ I bridge the gap between **academic research** and **production-grade engineerin
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  
+
+[![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" />
   </a>
