@@ -9,15 +9,13 @@
 
 ### 👋 Hi there, I'm Ahmet Emre Usta
 
-I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, **Medical Imaging**, and **Cloud-Native Architectures**. Currently leading R&D projects at **Radiomeddata** and consulting for **MLPCare**.
+I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, **Medical Imaging**, and **Cloud-Native Architectures**. Currently leading R&D projects at **[RadioMedData](https://www.linkedin.com/company/radiomeddata/)** and consulting for **[MLPCare](https://www.linkedin.com/company/mlpcare/)**.
 
 I bridge the gap between **academic research** and **production-grade engineering**, focusing on scalable AI solutions in healthcare.
 
 - 🔭 I’m currently working on **Multi-Agent LLM Orchestration** and **Domain-Specific STT Fine-tuning**.
 - 🔬 Research focus: **Privacy-Preserving AI (Differential Privacy & Homomorphic Encryption)**.
 - 🤝 **Collaboration:** I am open to **Academic & Industrial collaborations**, especially in Medical AI and Privacy Tech.
-- 🌐 My personal website: [aemreusta.com](https://aemreusta.com)
-- 💬 Ask me about: **LangChain, RAG Pipelines, MLOps on GCP.**
 
 ---
 
