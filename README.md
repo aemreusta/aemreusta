@@ -1,23 +1,15 @@
 <div align="center">
-  <a href="https://www.pexels.com/@aemreusta/">
-    <img
-      src="https://cloudflare-pexels-randomizer.a-emreusta061.workers.dev?v=STATIC"
-      width="100%"
-      height="300"
-      style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5); object-fit: cover;"
-      alt="My Pexels Collection"
-    />
-  </a>
-  <p style="color: #999; font-size: 0.75em; margin-top: 4px;">
-    <a href="https://github.com/aemreusta/cloudflare-pexels-randomizer" style="color: #999; text-decoration: none;">Dynamic Banner via Cloudflare Workers: Showcasing My Photography Collection</a>
-  </p>
+  <<img
+    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&h=300&fit=crop&auto=format"
+    width="100%"
+    height="300"
+    style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5); object-fit: cover;"
+    alt="AI Technology Banner"
+  />
   
   <br/>
-  <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A50B2D;399CC8&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Project+Lead;Building+Agentic+AI+Systems;Congress+Member+of+Trabzonspor+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A50B2D;399CC8&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Project+Lead;Building+Agentic+AI+Systems;Congress+Member+of+Trabzonspor+%F0%9F%8F%86" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800" height="2" />
 </div>
