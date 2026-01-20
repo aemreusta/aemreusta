@@ -35,6 +35,8 @@ I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, *
 
 ### 📊 GitHub Analytics
 
+<div align="center">
+
 [![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
