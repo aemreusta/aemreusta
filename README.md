@@ -1,11 +1,13 @@
 <div align="center">
-  <img
-    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200&h=300&fit=crop&auto=format"
-    width="100%"
-    height="300"
-    style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5); object-fit: cover;"
-    alt="AI Technology Banner"
-  />
+  <a href="https://www.pexels.com/@aemreusta/">
+    <img
+      src="https://cloudflare-pexels-randomizer.a-emreusta061.workers.dev?v=STATIC"
+      width="100%"
+      height="300"
+      style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5); object-fit: cover;"
+      alt="My Pexels Collection"
+    />
+  </a>
   
   <br/>
   <br/>
