@@ -1,0 +1,64 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ahmet%20Emre%20Usta&fontSize=70&fontColor=ffffff&desc=AI%20Engineer%20%26%20R%26D%20Lead&descAlign=50&descAlignY=55" alt="Ahmet Emre Usta Banner" />
+</div>
+
+### 👋 Hi there, I'm Ahmet Emre Usta
+
+I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, **Medical Imaging**, and **Cloud-Native Architectures**. Currently leading R&D projects at **Radiomeddata** and consulting for **MLPCare**.
+
+- 🔭 I’m currently working on **Multi-Agent LLM Orchestration** and **Domain-Specific STT (Whisper) Fine-tuning**.
+- 🔬 Research focus: **Privacy-Preserving AI (Differential Privacy & Homomorphic Encryption)** in Healthcare.
+- 🌐 My personal website: [aemreusta.com](https://aemreusta.com)
+- 💬 Ask me about: **LangChain, CrewAI, RAG Pipelines, MLOps on GCP.**
+
+---
+
+### 🛠️ Technical Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 📝 Latest Research & Projects
+
+- **TheraPose:** A Large Video Dataset for Physiotherapy Exercises (Published at TURKMIA 2024).
+- **Privacy-Preserving EHR Framework:** Implementing Differential Privacy & Homomorphic Encryption (Presented at HIBIT 2025).
+- **Radiology Automation MVP:** Reducing reporting time from 52h to <5m using Agentic Workflows.
+
+---
+
+<div align="center">
+  <a href="https://linkedin.com/in/a-emreusta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:a.emreusta061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
