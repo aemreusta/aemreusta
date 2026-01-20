@@ -9,7 +9,7 @@
     />
   </a>
   <p style="color: #999; font-size: 0.75em; margin-top: 4px;">
-    <a href="https://github.com/aemreusta/cloudflare-pexels-randomizer" style="color: #999; text-decoration: none;">Dynamic banner via Cloudflare Workers</a>
+    <a href="https://github.com/aemreusta/cloudflare-pexels-randomizer" style="color: #999; text-decoration: none;">Dynamic Banner via Cloudflare Workers: Showcasing My Photography Collection</a>
   </p>
   
   <br/>
