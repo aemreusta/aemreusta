@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+
+on:
+    schedule:
+        - cron: "0 6 * * 1" # Run every Monday at 6:00 AM
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    update-readme-with-blog:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Pull latest posts
+              uses: gautamkrishnar/blog-post-workflow@v1
+              with:
+                  feed_list: "https://medium.com/feed/@aemreusta"
+                  max_post_count: 5

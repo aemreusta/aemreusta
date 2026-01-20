@@ -2,17 +2,47 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ahmet%20Emre%20Usta&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%26%20Project%20Lead&descAlignY=60&descSize=25&animation=fadeIn" alt="Ahmet Emre Usta Banner" />
 </div>
 
+<div align="center">
+  <p><b>Visitor count</b></p>
+  <img src="https://profile-counter.glitch.me/aemreusta/count.svg" alt="Visitor Count" />
+</div>
+
 ### 👋 Hi there, I'm Ahmet Emre Usta
 
 I am an **AI Engineer & Project Lead** specializing in **Agentic AI Systems**, **Medical Imaging**, and **Cloud-Native Architectures**. Currently leading R&D projects at **Radiomeddata** and consulting for **MLPCare**.
 
 I bridge the gap between **academic research** and **production-grade engineering**, focusing on scalable AI solutions in healthcare.
 
-- 🔭 I’m currently working on **Multi-Agent LLM Orchestration** and **Domain-Specific STT (Whisper) Fine-tuning**.
+- 🔭 I’m currently working on **Multi-Agent LLM Orchestration** and **Domain-Specific STT Fine-tuning**.
 - 🔬 Research focus: **Privacy-Preserving AI (Differential Privacy & Homomorphic Encryption)**.
 - 🤝 **Collaboration:** I am open to **Academic & Industrial collaborations**, especially in Medical AI and Privacy Tech.
 - 🌐 My personal website: [aemreusta.com](https://aemreusta.com)
-- 💬 Ask me about: **LangChain, CrewAI, RAG Pipelines, MLOps on GCP.**
+- 💬 Ask me about: **LangChain, RAG Pipelines, MLOps on GCP.**
+
+---
+
+### 🚀 Featured Projects & Research
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🔒 **[EHR Privacy Framework](https://github.com/aemreusta/ehr-privacy-framework)** | **HIBIT 2025 Project.** Comprehensive toolkit for EHR privacy, combining anonymization, Differential Privacy, and Homomorphic Encryption simulations. Validated on MIMIC-III. | `Python` `DiffPriv` `Encryption` |
+| 🧬 **[STS Classification](https://github.com/aemreusta/sts-classification)** | **Graduation Project.** Deep learning models for Soft Tissue Sarcoma classification from histopathological images. | `PyTorch` `Computer Vision` `WSI` |
+| 🔬 **[WSI Export Tool](https://github.com/aemreusta/wsi-export)** | Specialized utility to export and process Whole Slide Images (WSI) for pathology AI pipelines. | `OpenSlide` `Python` |
+| 🐧 **[Dotfiles (.config)](https://github.com/aemreusta/.config)** | My personal configuration files for Linux/Home Lab environment. Shows my system administration workflow. | `Bash` `Linux` `Config` |
+
+---
+
+## 📕 Latest Writing / Updates
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📄 Publications & Talks (selected)
+
+- **HIBIT 2025 (Poster):** Privacy-preserving strategies for EHRs (DP + HE simulations)
+- **Submitted Manuscript:** Foramen Palatinum Majus segmentation & morphometrics (MedSAM)
+- **2023 National Pathology Congress:** Soft tissue sarcoma imaging research (TCGA-SARC)
 
 ---
 
@@ -36,27 +66,17 @@ I bridge the gap between **academic research** and **production-grade engineerin
 
 ---
 
-### 🚀 Featured Projects & Research
+## 📊 GitHub Analytics
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🔒 **[EHR Privacy Framework](https://github.com/aemreusta/ehr-privacy-framework)** | **HIBIT 2025 Project.** Comprehensive toolkit for EHR privacy, combining anonymization, Differential Privacy, and Homomorphic Encryption simulations. Validated on MIMIC-III. | `Python` `DiffPriv` `Encryption` |
-| 🧬 **[STS Classification](https://github.com/aemreusta/sts-classification)** | **Graduation Project.** Deep learning models for Soft Tissue Sarcoma classification from histopathological images. | `PyTorch` `Computer Vision` `WSI` |
-| 🔬 **[WSI Export Tool](https://github.com/aemreusta/wsi-export)** | Specialized utility to export and process Whole Slide Images (WSI) for pathology AI pipelines. | `OpenSlide` `Python` |
-| 🐧 **[Dotfiles (.config)](https://github.com/aemreusta/.config)** | My personal configuration files for Linux/Home Lab environment. Shows my system administration workflow. | `Bash` `Linux` `Config` |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html,css" />
-  </a>
-</div>
+<details>
+  <summary><b>Show stats</b></summary>
+  <br/>
+  <div align="center">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aemreusta&theme=transparent&hide_border=true" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css" />
+  </div>
+</details>
 
 ---
 
@@ -70,4 +90,16 @@ I bridge the gap between **academic research** and **production-grade engineerin
    <a href="https://aemreusta.com">
     <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aemreusta/aemreusta/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aemreusta/aemreusta/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/aemreusta/aemreusta/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
