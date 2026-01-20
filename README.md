@@ -1,13 +1,7 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=220&amp;section=header&amp;text=Ahmet%20Emre%20Usta&amp;fontSize=60&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%26%20Project%20Lead&amp;descAlignY=60&amp;descSize=25&amp;animation=fadeIn&amp;format=png"
-    alt="Ahmet Emre Usta Banner"
-  />
-</div>
-
-<div align="center">
-  <p><b>Visitor count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=aemreusta&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=680&lines=AI+Engineer+%26+Project+Lead;Building+Agentic+AI+Systems;Congress+Member+of+Trabzonspor+%E2%9A%BD" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 👋 Hi there, I'm Ahmet Emre Usta
@@ -74,28 +68,10 @@ I bridge the gap between **academic research** and **production-grade engineerin
 
 ## 📊 GitHub Analytics
 
-<details>
-  <summary><b>Show stats</b></summary>
-  <br/>
-  <div align="center">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-    <img width="390" src="https://streak-stats.demolab.com/?user=aemreusta&theme=transparent&hide_border=true" />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css" />
-  </div>
-</details>
-
----
-
 <div align="center">
-  <a href="https://linkedin.com/in/a-emreusta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:a.emreusta061@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   <a href="https://aemreusta.com">
-    <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=about.me&logoColor=white" />
-  </a>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=aemreusta&theme=transparent&hide_border=true" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css" />
 </div>
 
 ---
@@ -108,4 +84,32 @@ I bridge the gap between **academic research** and **production-grade engineerin
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aemreusta/aemreusta/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/aemreusta/aemreusta/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="imgs/ts-gold-monochrome.png" height="50" alt="Trabzonspor Gold Logo" />
+  <br/>
+  <br/>
+
+  <a href="https://linkedin.com/in/a-emreusta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:a.emreusta061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aemreusta.com">
+    <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://trabzonspor.org.tr">
+    <img src="https://img.shields.io/badge/Trabzonspor-Member-830025?style=for-the-badge&labelColor=399CC8&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><b>Visitor count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=aemreusta&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
