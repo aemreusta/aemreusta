@@ -35,6 +35,11 @@ I bridge the gap between **academic research** and **production-grade engineerin
 
 ## 📕 Latest Writing / Updates
 <!-- BLOG-POST-LIST:START -->
+- [Registers as a Solution to Vision Transformers’ Artifact Dilemma](https://aemreusta.medium.com/registers-as-a-solution-to-vision-transformers-artifact-dilemma-480b228771c3?source=rss-d3b3c418fe------2)
+- [Understanding Cloudflare’s DNS Query Analytics](https://aemreusta.medium.com/understanding-cloudflares-dns-query-analytics-40df88b03c2a?source=rss-d3b3c418fe------2)
+- [Deep Learning for AI](https://aemreusta.medium.com/deep-learning-for-ai-300cbff5268d?source=rss-d3b3c418fe------2)
+- [Parquet vs. CSV: A Comparison of File Formats for Data Storage with Experiment](https://aemreusta.medium.com/parquet-vs-csv-a-comparison-of-file-formats-for-data-storage-with-experiment-bb0a4d7263ed?source=rss-d3b3c418fe------2)
+- [Week 2 — Success of AI Writers](https://medium.com/ain311-fall-2022-projects/week-2-success-of-ai-writers-9bada8ac6fa5?source=rss-d3b3c418fe------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
