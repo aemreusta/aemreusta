@@ -80,8 +80,7 @@ I bridge the gap between **academic research** and **production-grade engineerin
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=aemreusta&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=aemreusta&theme=transparent&hide_border=true" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemreusta&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css" />
 </div>
 
 ---
